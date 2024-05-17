@@ -47,18 +47,6 @@
           "Value": "CD-03"
         }
       ]
-    },
-    {
-      "Row": [
-        {
-          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
-          "Value": "f9310622-cd79-4361-b4a7-075fef5b4e12"
-        },
-        {
-          "SchemaColumnUId": "ef90294d-6f34-7862-8028-45a85341fc4e",
-          "Value": "CD-05"
-        }
-      ]
     }
   ]
 }
