@@ -8,6 +8,7 @@
       "Name": "BaseMiniPageTemplate"
     },
     "ManagerName": "ClientUnitSchemaManager",
-    "Caption": "Realty visit form page"
+    "Caption": "Realty visit form page",
+    "DependsOn": []
   }
 }

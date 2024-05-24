@@ -12,6 +12,16 @@
         "PackageVersion": "7.8.0",
         "Name": "CrtCore",
         "Type": 1
+      },
+      {
+        "UId": "6c2c4af2-6a49-4f73-ac6b-89782c1a2b84",
+        "Name": "UsrRealtyMigration",
+        "Type": 1
+      },
+      {
+        "UId": "8068d92c-2873-0c7a-4528-3ca3dfe0ec2b",
+        "Name": "DevClassic",
+        "Type": 1
       }
     ]
   }
